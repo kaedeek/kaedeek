@@ -6,4 +6,4 @@
 
 # my skills
 
-![My Skills](https://skillicons.dev/icons?i=python,c,ruby,javascript,wasm%29)
+![My Skills](https://skillicons.dev/icons?i=python,c,ruby,golang,javascript,wasm%29)
