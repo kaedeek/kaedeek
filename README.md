@@ -1,9 +1,16 @@
-# Stats
 
-![kaedeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaedeek&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeek&layout=compact&theme=vue-dark)
+<h1 align="center">Hi, I am kaede :)</h1>
+<p align="center">
+  <em>Developer of Climte</em>
+</p>
 
+# status
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayu0514&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayu0514&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayu0514&theme=aura_dark&utcOffset=8)
+![kaede's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayu0514&theme=2077)
 
 # my skills
 
-![My Skills](https://skillicons.dev/icons?i=python,c,ruby,golang,javascript,Rust,wasm%29)
+![My Skills](https://skillicons.dev/icons?i=python,c,ruby,golang,javascript,rust,wasm%29)
