@@ -16,6 +16,7 @@
 ![My Skills](https://skillicons.dev/icons?i=python,c,ruby,golang,javascript,rust,wasm%29)
 
 
+# GitHub Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=kaedeek" alt="GitHub Trophy">
 </a>
