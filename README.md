@@ -10,6 +10,10 @@
 
 <p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeek&theme=radical&layout=compact"></a></p>
 
+<p align="center">
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/kaedeek" />
+</p>
+
 <p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api?username=kaedeek&show_icons=true&theme=radical"></a></p>
 
 
