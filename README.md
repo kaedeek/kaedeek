@@ -10,12 +10,12 @@
 
 <p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeek&theme=radical&layout=compact"></a></p>
 
+<p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api?username=kaedeek&show_icons=true&theme=radical"></a></p>
+
+
 <p align="center">
   <img src="https://github-stats-eta-two.vercel.app/api/stats/kaedeek" />
 </p>
-
-<p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api?username=kaedeek&show_icons=true&theme=radical"></a></p>
-
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Lang</h2>
 
