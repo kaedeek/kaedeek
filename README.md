@@ -17,6 +17,13 @@
   <img src="https://github-stats-eta-two.vercel.app/api/stats/kaedeek" />
 </p>
 
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Qiita & Zenn</h2>
+
+<p align="center">
+  <a href="https://qiita.com/kaedeek"><img src="https://img.shields.io/badge/Qiita-55C500?logo=qiita&logoColor=white"></a>
+  <a href="https://zenn.dev/kaedeek"><img src="https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=white"></a>
+</p>
+
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Lang</h2>
 
 <div align="center">
