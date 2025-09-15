@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/-Go-555.svg?logo=go&style=flat">
   <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&style=flat">
+  <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=flat">
   <img src="https://img.shields.io/badge/-C-00599C.svg?logo=c&style=flat">
   <img src="https://img.shields.io/badge/-Rust-555.svg?logo=rust&style=flat">
   <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat">
