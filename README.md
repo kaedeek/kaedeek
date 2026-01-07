@@ -54,11 +54,6 @@
   </a>
 </p>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Contact</h2>
-
-<p align="center">
-  <a href="Https://x.com/bl5ca6ngtfu3pjy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"></a>
-</p>
 
 <br><br><br>
 
