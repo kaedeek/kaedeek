@@ -15,6 +15,15 @@
 
 <p align="center"><a href="https://github.com/kaedeek"><img src="https://github-readme-stats.vercel.app/api?username=kaedeek&show_icons=true&theme=radical"></a></p>
 
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  Metrics
+</h2>
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" />
+</p>
+
 
 <p align="center">
   <img src="https://github-stats-eta-two.vercel.app/api/stats/kaedeek" />
