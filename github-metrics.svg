@@ -33,14 +33,14 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">kaedeek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#########           ] 41.72%
-<b>CSS         </b> [#####               ] 21.28%
-<b>HTML        </b> [####                ] 15.82%
-<b>JAVASCRIPT  </b> [##                  ] 7.26 %
-<b>EJS         </b> [##                  ] 5.13 %
-<b>GO          </b> [#                   ] 3.88 %
-<b>RUST        </b> [#                   ] 2.48 %
-<b>C           </b> [#                   ] 2.44 %
+<pre><div class="stdin"><span class="ps1-path">kaedeek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#########           ] 42.83%
+<b>CSS         </b> [#####               ] 20.88%
+<b>HTML        </b> [####                ] 15.52%
+<b>JAVASCRIPT  </b> [##                  ] 7.12 %
+<b>EJS         </b> [##                  ] 5.03 %
+<b>GO          </b> [#                   ] 3.80 %
+<b>RUST        </b> [#                   ] 2.43 %
+<b>C           </b> [#                   ] 2.39 %
 </div>
 <div class="stdin"><span class="ps1-path">kaedeek@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
