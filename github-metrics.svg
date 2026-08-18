@@ -33,9 +33,9 @@
         </div>
       </div>
 
-<pre><div class="stdin"><span class="ps1-path">kaedeek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#########           ] 44.58%
+<pre><div class="stdin"><span class="ps1-path">kaedeek@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [#########           ] 44.59%
 <b>CSS         </b> [#####               ] 20.20%
-<b>HTML        </b> [####                ] 15.02%
+<b>HTML        </b> [####                ] 15.01%
 <b>JAVASCRIPT  </b> [##                  ] 6.89 %
 <b>EJS         </b> [#                   ] 4.87 %
 <b>GO          </b> [#                   ] 3.68 %
